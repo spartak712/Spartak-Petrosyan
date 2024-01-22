@@ -4,9 +4,9 @@
 
 ### 👨‍💻 Обо мне:
 
-Я тестировщик с 2 летним стажем и будущий automation.
+Я тестировщик с более чем 3 летним стажем, практикующий automation.
 
-- 📫 Как связаться со мной: inst: dushevny13   telegram: spartak712
+- 📫 Как связаться со мной: inst: spartak_it   telegram: spartak712
 
 ---
 
